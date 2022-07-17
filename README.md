@@ -45,4 +45,20 @@ I am a 5th semester Computer Science student based in Poland :mortar_board:
 <br>
   Projects I'm proud of :wrench:
 </h1>
+<h3>
+<i>(Latest first)</i>
+</h3>
 </div>
+
+###  :collision: C++ Projects :
+
+- :money_with_wings: GUI Payment Service using QT: [REPO](https://github.com/andriybobchuk/PaymentService/tree/main/Project/PaymentServiceWithQt) | [README](https://github.com/andriybobchuk/PaymentService/blob/main/Project/PaymentServiceWithQt/README.pdf)
+- :fire: Custom ***std::vector*** implementation: [REPO](https://github.com/andriybobchuk/Vector) | [README](https://github.com/andriybobchuk/Vector/blob/main/README.pdf)
+- :wrench: Multiformat File Compressor (Using Huffman algorithm): [REPO](https://github.com/andriybobchuk/Huffman) | [README](https://github.com/andriybobchuk/Huffman/blob/master/DOCUMENTATION.pdf)
+
+
+### :robot: Android Projects :
+
+- :love_letter: News App written in Kotlin featuring Jetpack Compose, Retrofit, MVVM (Work in progress): [REPO](https://github.com/andriybobchuk/NewsApp)
+- :money_with_wings: Personal Finance App written in Kotlin featuring ROOM, Firebase: [REPO](https://github.com/andriybobchuk/Ins-n-Outs) | [README](https://github.com/andriybobchuk/Ins-n-Outs#insnouts)
+- :sun_with_face: Weather App written in Java: [REPO](https://github.com/andriybobchuk/Weather) | [README](https://github.com/andriybobchuk/Weather#the-weather)
