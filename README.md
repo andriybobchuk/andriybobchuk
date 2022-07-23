@@ -59,6 +59,7 @@ I am a 5th semester Computer Science student based in Poland :mortar_board:
 
 ### :robot: Android Projects :
 
+- :cactus: 36 Questions quizz - A Jetpack Compose based Android app with a clean architecture: [REPO](https://github.com/andriybobchuk/36-Questions)
 - :love_letter: News App written in Kotlin featuring Jetpack Compose, Retrofit, MVVM (Work in progress): [REPO](https://github.com/andriybobchuk/NewsApp)
 - :money_with_wings: Personal Finance App written in Kotlin featuring ROOM, Firebase: [REPO](https://github.com/andriybobchuk/Ins-n-Outs) | [README](https://github.com/andriybobchuk/Ins-n-Outs#insnouts)
 - :sun_with_face: Weather App written in Java: [REPO](https://github.com/andriybobchuk/Weather) | [README](https://github.com/andriybobchuk/Weather#the-weather)
