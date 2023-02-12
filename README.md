@@ -15,12 +15,12 @@
 
 
 ### :man_technologist: About Me :
-I am a 5th semester Computer Science student based in Poland :mortar_board:
+I am a senior Computer Science student based in Poland :mortar_board:
 - :telescope: I’m interested in Software Engineering, Agile Methodologies (Scrum, Kanban) and Database Development.
 
-- :seedling: My current university major language is C++
+- :seedling: My current university major language is C++, but I also study Java, Kotlin and Swift.
 
-- :zap: Aspiring Android Developer (Kotlin, Java)
+- :zap: Aspiring mobile developer (Kotlin, Swift)
 
 - :factory: Strive for the clean app architecture: I use GoF Design Patterns, MVVM, MVC, MVP
 
