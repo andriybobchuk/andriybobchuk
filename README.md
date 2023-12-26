@@ -8,19 +8,19 @@
   </a>
 </div>
 <h1>
-  Hi, I'm Andriy
+  Hi, I'm Andriy!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
 
 ### :man_technologist: About Me :
-I am a senior Computer Science student based in Poland :mortar_board:
-- :telescope: I’m interested in Software Engineering, Agile Methodologies (Scrum, Kanban) and Database Development.
+I am an Android Developer at Samsung based in Poland :mortar_board:
+- :telescope: I’m experienced in Software Engineering, Agile Methodologies and Database Development.
 
-- :seedling: My current university major language is C++, but I also study Java, Kotlin and Swift.
+- :seedling: I graduated from Silesian University of Technology with a Bachelor's degree in Computer Science.
 
-- :zap: Aspiring mobile developer (Kotlin, Swift)
+- :zap: Currently at my workplace I specialize on System Structure Design of Android applications.
 
 - :factory: Strive for the clean app architecture: I use GoF Design Patterns, MVVM, MVC, MVP
 
@@ -45,21 +45,17 @@ I am a senior Computer Science student based in Poland :mortar_board:
 <br>
   Projects I'm proud of :wrench:
 </h1>
-<h3>
-<i>(Latest first)</i>
-</h3>
 </div>
 
-###  :collision: C++ Projects :
+### :robot: Android Projects :
+
+- :love_letter: Social Network Android app written in Kotlin with the use of Dagegr-Hilt, Firebase and Jetpack Cmpose: [REPO](https://github.com/andriybobchuk/coCreate) | [README](https://github.com/andriybobchuk/coCreate?tab=readme-ov-file#cocreate-mobile-application)
+- :money_with_wings: Personal Finance App written in Kotlin featuring ROOM, Firebase: [REPO](https://github.com/andriybobchuk/Ins-n-Outs) | [README](https://github.com/andriybobchuk/Ins-n-Outs#insnouts)
+- :sun_with_face: Weather App written in Java: [REPO](https://github.com/andriybobchuk/Weather) | [README](https://github.com/andriybobchuk/Weather#the-weather)
+
+###  :collision: Other Fun Projects (C++) :
 
 - :money_with_wings: GUI Payment Service using QT: [REPO](https://github.com/andriybobchuk/PaymentService/tree/main/Project/PaymentServiceWithQt) | [README](https://github.com/andriybobchuk/PaymentService/blob/main/Project/PaymentServiceWithQt/README.pdf)
 - :fire: Custom ***std::vector*** implementation: [REPO](https://github.com/andriybobchuk/Vector) | [README](https://github.com/andriybobchuk/Vector/blob/main/README.pdf)
 - :wrench: Multiformat File Compressor (Using Huffman algorithm): [REPO](https://github.com/andriybobchuk/Huffman) | [README](https://github.com/andriybobchuk/Huffman/blob/master/DOCUMENTATION.pdf)
 
-
-### :robot: Android Projects :
-
-- :cactus: 36 Questions quizz - A Jetpack Compose based Android app with a clean architecture: [REPO](https://github.com/andriybobchuk/36-Questions)
-- :love_letter: News App written in Kotlin featuring Jetpack Compose, Retrofit, MVVM (Work in progress): [REPO](https://github.com/andriybobchuk/NewsApp)
-- :money_with_wings: Personal Finance App written in Kotlin featuring ROOM, Firebase: [REPO](https://github.com/andriybobchuk/Ins-n-Outs) | [README](https://github.com/andriybobchuk/Ins-n-Outs#insnouts)
-- :sun_with_face: Weather App written in Java: [REPO](https://github.com/andriybobchuk/Weather) | [README](https://github.com/andriybobchuk/Weather#the-weather)
